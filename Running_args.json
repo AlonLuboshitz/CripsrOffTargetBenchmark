@@ -1,0 +1,8 @@
+{
+    "Nuclea-seq":
+        {
+            "Model_name": "Nuclea-seq",
+            "Target_column": "realigned_target",
+            "Off_target_column": "offtarget_sequence"
+        }
+}
