@@ -4,5 +4,41 @@
             "Model_name": "Nuclea-seq",
             "Target_column": "realigned_target",
             "Off_target_column": "offtarget_sequence"
+        },
+    "CRISPR-IP":
+        {
+            "Model_name": "CRISPR-IP",
+            "Target_column": "realigned_target",
+            "Off_target_column": "offtarget_sequence"
+        },
+    "CRISPR-SGRU":
+        {
+            "Model_name": "CRISPR-SGRU",
+            "Target_column": "realigned_target",
+            "Off_target_column": "offtarget_sequence"
+        },
+    "CRISPR-MFH":
+        {
+            "Model_name": "CRISPR-MFH",
+            "Target_column": "realigned_target",
+            "Off_target_column": "offtarget_sequence"
+        },
+    "CRISPR-BULGE":
+        {
+            "Model_name": "CRISPR-BULGE",
+            "Target_column": "realigned_target",
+            "Off_target_column": "offtarget_sequence"
+        },
+    "CRISPR-NET":
+        {
+            "Model_name": "CRISPR-NET",
+            "Target_column": "realigned_target",
+            "Off_target_column": "offtarget_sequence"
+        },
+    "Aldit_Off":
+        {
+            "Model_name": "Aldit_Off",
+            "Target_column": "realigned_target",
+            "Off_target_column": "offtarget_sequence"
         }
 }

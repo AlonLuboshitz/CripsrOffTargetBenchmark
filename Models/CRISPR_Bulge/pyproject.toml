@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ot-deep-score-src"      # distribution name for pip
+version = "0.0.1"
+
+[tool.setuptools]
+packages = ["OT_deep_score_src"]  # this is the folder name you import from
