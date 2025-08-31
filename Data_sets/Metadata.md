@@ -51,4 +51,3 @@ The negative samples are sequence allignments between the targets (sgRNAs) to ge
 **Prediction methods are inputed with realigned_sequence, off_target_sequence and the correspoding label: reads for regression or (1 - for read > 0, 0 for read == 0) for classification.**
 
 
-Is higher or lower predicted score better - [ascending - descending]
