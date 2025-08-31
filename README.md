@@ -2,6 +2,12 @@
 
 This is CRISPR/Cas9 off-target cleavege probability model benchmarking.
 For Dataset description and models check the `Metadata.md` file in the Data_sets folder.
+## Large files using LFS
+git lfs install
+git clone repo
+cd repo
+git lfs pull
+
 
 ## Run
 `python Test_models.py "model_name"`
